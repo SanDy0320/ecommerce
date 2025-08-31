@@ -1,0 +1,14 @@
+for express - package.json
+npm install bcrypt colors concurrently cors dotenv express express-formidable jsonwebtoken mongoose morgan nodemon slugify
+
+
+for client - package.json
+npm install antd axios react react-dom react-helmet react-hot-toast react-router-dom
+
+
+login id and password
+id-sandeep.mahto2003@gmail.com //admin
+password-12345678
+
+id-john@gmail.com //user
+password- john123
