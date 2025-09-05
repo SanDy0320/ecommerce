@@ -132,4 +132,4 @@ The backend exposes the following RESTful API endpoints:
 
 Sandeep Kumar - [sandeep.mahto2003@gmail.com](mailto:sandeep.mahto2003@gmail.com)
 
-Project Link: [https://github.com/sandy0320/sandy0320-ecommerce](https://github.com/sandy0320/sandy0320-ecommerce)
+Project Link: [https://github.com/SanDy0320/ecommerce](https://github.com/SanDy0320/ecommerce)
