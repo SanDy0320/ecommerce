@@ -6,7 +6,7 @@ Welcome to NeoCart, a feature-rich, full-stack MERN (MongoDB, Express.js, React,
 
 ## Live Demo
 
-[Link to Live Demo](https://neocart.onrender.com)
+[Link to Live Demo](https://www.loom.com/share/ceb166ef76514bda9379cb4331a4044b?sid=d8a51c6d-ca2b-467d-acf8-786d066e07a5)
 
 ## Features
 
